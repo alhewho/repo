@@ -1,0 +1,13 @@
+name="Build 1.4.1" 
+url="https://archive.org/download/build_20170914/build.zip"
+img="https://raw.githubusercontent.com/alhewho/repo/master/build.png"
+fanart="https://raw.githubusercontent.com/alhewho/repo/master/fanart.jpg"
+description="Build"
+currentversion="ONLINE"
+
+name="Build_Test" 
+url="https://https://archive.org/download/build_test_201709/build_test.zip"
+img="https://raw.githubusercontent.com/alhewho/repo/master/build.png"
+fanart="https://raw.githubusercontent.com/alhewho/repo/master/fanart.jpg"
+description="BuildTest"
+currentversion="ONLINE"
